@@ -3,7 +3,7 @@ title: "Proje Yönetimi"
 date: 2026-06-03
 categories: 
   - "proje-yonetimi"
-coverImage:  /assets/img/Gemini_Generated_Image_qc3g14qc3g14qc3g.png
+coverImage:  "/assets/img/Gemini_Generated_Image_qc3g14qc3g14qc3g.png"
 ---
 
 **Proje Yönetimi Nedir? (Kahve Yapmaktan Köprü İnşa Etmeye Uzanan Yolculuk)**
