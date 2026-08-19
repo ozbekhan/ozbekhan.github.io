@@ -21,8 +21,7 @@ author: İbrahim Özbek
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
-    - İbrahim Özbek: "ozbek.web.tr"
+  Blog: "blog"
   Author's home: "http://ozbek.web.tr"
 
 ################
@@ -254,7 +253,7 @@ date_format: "%B %-d, %Y"
 #################################################################################
 
 # Output options (more information on Jekyll's site)
-timezone: "America/Toronto"
+timezone: "Turkey/Istanbul"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
