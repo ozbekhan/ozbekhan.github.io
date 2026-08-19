@@ -18,14 +18,7 @@ subtitle: Tüm blog yazıları
         Yayınlanma tarihi: {{ post.date | date: "%d.%m.%Y" }}
       </p>
 
-      <div class="post-entry-container">
-        {% if post.excerpt %}
-          <div class="post-entry">
-            {{ post.excerpt | strip_html | truncatewords: 30 }}
-            <a href="{{ post.url | relative_url }}" class="post-read-more">[Devamını Oku]</a>
-          </div>
-        {% endif %}
-      </div>
+      
     </article>
     <hr>
   {% endfor %}
